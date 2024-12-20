@@ -35,15 +35,12 @@ concatenate：串联
 pivot：旋转
 stack：堆叠
 ```
-## 
-join：連接
-combine：合併
-reshape：整形
+## join：連接
+## combine：合併
+## reshape：整形
 
-8.2中的操作名
-merge：歸併
-concatenate：串聯
+## merge：歸併
+## concatenate：串聯
 
-8.3中的操作名
-pivot：旋轉
-stack：堆疊
+## pivot：旋轉
+## stack：堆疊
